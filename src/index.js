@@ -1,5 +1,8 @@
-import "./index.css";
 import React from "react";
 import ReactDOM from "react-dom";
+import "./style.css";
 
-ReactDOM.render(<h1>Olá React!</h1>, document.getElementById("root"));
+ReactDOM.render(
+  <h1>Primeira Aplicação React</h1>,
+  document.getElementById("root")
+);
