@@ -1,8 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-
-ReactDOM.render(
-  <h1>Primeira Aplicação React</h1>,
-  document.getElementById("root")
-);
+import App from "./App";
+ReactDOM.render(<App></App>, document.getElementById("root"));
