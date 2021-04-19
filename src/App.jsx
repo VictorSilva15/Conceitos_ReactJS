@@ -34,7 +34,7 @@ const App = (props) => (
     </Card>
 
     <Card titulo="#05 - Condicional v1">
-      <Condicional numero={10}></Condicional>
+      <Condicional numero={8}></Condicional>
     </Card>
 
     <Card titulo="#06 - Condicional v2">
