@@ -1,5 +1,5 @@
 import React from "react";
-import Produtos from "../data/Products";
+import Produtos from "../../data/Products";
 
 const Repeticao = (props) => {
   function getProdutosListItem() {
